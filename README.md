@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Aofiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=aofiee&show_icons=true&theme=tokyonight)
+
 <!--
 **aofiee/aofiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
