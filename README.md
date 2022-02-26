@@ -6,7 +6,7 @@
 - 📫 How to reach me: <aofiee666@gmail.com>
 - ⚡ Fun fact: Beer Brewer, Listen to Music, Watch the movie
 
-## I spaek Language
+## I speak Language
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
