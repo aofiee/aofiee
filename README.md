@@ -1,6 +1,6 @@
 # Me Aofiee L.
 
-- 🔭 I’m currently working on [TwinSynergy Co.,Ltd.](https://www.twinsynergy.co.th)
+- 🔭 I’m currently working backend developer
 - 💬 Ask me about Web Development
 - 📫 How to reach me: <aofiee666@gmail.com>
 - ⚡ Fun fact: Beer Brewer, Listen to Music, Watch the movie
